@@ -26,7 +26,7 @@ This next tutorial demonstrates how to create an augmented reality project with 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
     allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/hsulibrary-ar-beginner?path=README.md&previewSize=0"
+    src="https://glitch.com/embed/#!/embed/hsulibrary-ar-beginner?path=README.md"
     alt="hsulibrary-ar-beginner on Glitch"
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
