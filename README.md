@@ -1,2 +1,6 @@
-# guides
-HSU DML Guides to equipment, tutorials and more
+# HSU Digital Media Lab
+
+Welcome to the HSU Digital Media Lab Guide!
+
+
+
