@@ -8,6 +8,18 @@ Aframe is an open source web-based VR framework that can be a very easy entry po
 
 The tutorial below is for beginners and includes step by step instructions in the README.md file. For people unsure of how to get started using Glitch.com, the beginning of the tutorial has a basic rundown and includes links to more videos and other resources to help you learn how to use and get the most out of Glitch.com. This is also used in the face-to-face SkillShops sessions- check the [SkillShops calendar](http://humboldt.libcal.com/calendar/workshops) for upcoming workshops!
 
+https://glitch.com/~hsulibrary-ar-beginner
+
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/hsulibrary-ar-beginner?path=README.md&previewSize=33"
+    alt="hsulibrary-ar-beginner on Glitch"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
 
 ### AR with Aframe
 
