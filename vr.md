@@ -16,7 +16,7 @@ The tutorial below is for beginners and includes step by step instructions in th
 
 This next tutorial demonstrates how to create an augmented reality project with Aframe and also includes step-by-step instructions in the README.md file. 
 
-!(AR Madness Logo)[https://hsudml.github.io/guides/assets/ARicon.png]
+![AR Madness Logo](https://hsudml.github.io/guides/assets/ARicon.png)
 
 [AR Madness!!](https://glitch.com/~hsulibrary-ar-beginner)
 
